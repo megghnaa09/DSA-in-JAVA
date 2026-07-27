@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0020-valid-parentheses](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 ## Backtracking
 |  |
 | ------- |
@@ -105,6 +107,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 ## Sliding Window
 |  |
 | ------- |
