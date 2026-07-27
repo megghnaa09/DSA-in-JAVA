@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0014-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,4 +43,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
