@@ -39,6 +39,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0020-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,4 +56,8 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0015-3sum) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
