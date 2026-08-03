@@ -15,6 +15,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0268-missing-number) |
+| [3046-split-the-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/3046-split-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | [0076-minimum-window-substring](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0268-missing-number) |
+| [3046-split-the-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/3046-split-the-array) |
 ## Linked List
 |  |
 | ------- |
@@ -166,4 +168,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0238-product-of-array-except-self) |
+## Counting
+|  |
+| ------- |
+| [3046-split-the-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/3046-split-the-array) |
 <!---LeetCode Topics End-->
