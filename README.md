@@ -19,6 +19,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,6 +78,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
