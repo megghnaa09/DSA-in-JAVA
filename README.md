@@ -16,6 +16,7 @@
 | [0238-product-of-array-except-self](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [3046-split-the-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/3046-split-the-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0009-palindrome-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0268-missing-number) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Recursion
 |  |
 | ------- |
