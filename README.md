@@ -14,12 +14,14 @@
 | [0085-maximal-rectangle](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -33,6 +35,7 @@
 | [0007-reverse-integer](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0029-divide-two-integers) |
+| [0268-missing-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -79,6 +82,7 @@
 | ------- |
 | [0015-3sum](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -115,6 +119,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0268-missing-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -156,6 +161,7 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
