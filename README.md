@@ -12,6 +12,7 @@
 | [0042-trapping-rain-water](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0085-maximal-rectangle) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,4 +146,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0155-min-stack) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
