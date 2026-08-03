@@ -93,6 +93,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0023-merge-k-sorted-lists) |
+| [0191-number-of-1-bits](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0029-divide-two-integers) |
+| [0191-number-of-1-bits](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0191-number-of-1-bits) |
 ## Monotonic Stack
 |  |
 | ------- |
