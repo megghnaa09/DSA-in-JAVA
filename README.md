@@ -174,4 +174,8 @@
 |  |
 | ------- |
 | [3046-split-the-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/3046-split-the-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
