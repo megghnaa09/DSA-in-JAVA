@@ -3,9 +3,6 @@ class Solution {
         Stack<Character> st = new Stack<>();
         for (int i = 0; i < s.length(); i++){
             char ch = s.charAt(i);
-            // if(!st.isEmpty()){
-            //     char last = st.peek();
-            // }
             if(ch=='{' || ch=='[' || ch=='('){
                 st.push(ch);
             }else if(ch == '}' || ch==']' || ch==')'){
