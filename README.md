@@ -178,4 +178,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
