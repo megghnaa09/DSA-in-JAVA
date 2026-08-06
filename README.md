@@ -97,6 +97,7 @@
 | [0085-maximal-rectangle](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0225-implement-stack-using-queues) |
 ## Backtracking
 |  |
 | ------- |
@@ -161,6 +162,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0225-implement-stack-using-queues) |
 ## Binary Search
 |  |
 | ------- |
@@ -179,4 +181,8 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0032-longest-valid-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
