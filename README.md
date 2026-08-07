@@ -15,6 +15,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0268-missing-number) |
+| [0622-design-circular-queue](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0622-design-circular-queue) |
 | [3046-split-the-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/3046-split-the-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
@@ -31,6 +32,7 @@
 | [0002-add-two-numbers](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0023-merge-k-sorted-lists) |
+| [0622-design-circular-queue](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0622-design-circular-queue) |
 ## Math
 |  |
 | ------- |
@@ -165,6 +167,7 @@
 | [0155-min-stack](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0622-design-circular-queue) |
 ## Binary Search
 |  |
 | ------- |
@@ -188,4 +191,5 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
