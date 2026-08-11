@@ -72,6 +72,7 @@
 | [0125-valid-palindrome](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0242-valid-anagram) |
+| [0649-dota2-senate](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0649-dota2-senate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0011-container-with-most-water) |
+| [0649-dota2-senate](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0649-dota2-senate) |
 ## Trie
 |  |
 | ------- |
@@ -197,4 +199,5 @@
 | [0225-implement-stack-using-queues](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
