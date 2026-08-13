@@ -13,6 +13,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0622-design-circular-queue](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0622-design-circular-queue) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0015-3sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0268-missing-number) |
 ## Stack
@@ -117,10 +119,12 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0023-merge-k-sorted-lists) |
 | [0191-number-of-1-bits](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -200,4 +204,8 @@
 | [0232-implement-queue-using-stacks](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0649-dota2-senate) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
