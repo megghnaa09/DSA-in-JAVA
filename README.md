@@ -13,6 +13,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0179-largest-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0268-missing-number) |
@@ -72,6 +73,7 @@
 | [0076-minimum-window-substring](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [0649-dota2-senate](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0649-dota2-senate) |
 ## Dynamic Programming
@@ -86,6 +88,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0179-largest-number) |
 | [0649-dota2-senate](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0649-dota2-senate) |
 ## Trie
 |  |
@@ -95,6 +98,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0015-3sum) |
+| [0179-largest-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0268-missing-number) |
