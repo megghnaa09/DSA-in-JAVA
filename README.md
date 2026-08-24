@@ -17,6 +17,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0622-design-circular-queue](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0658-find-k-closest-elements) |
 | [3046-split-the-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/3046-split-the-array) |
@@ -28,6 +29,7 @@
 | [0076-minimum-window-substring](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [3046-split-the-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/3046-split-the-array) |
 ## Linked List
 |  |
@@ -104,6 +106,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0658-find-k-closest-elements) |
 ## Stack
 |  |
@@ -127,11 +130,13 @@
 | [0023-merge-k-sorted-lists](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0023-merge-k-sorted-lists) |
 | [0191-number-of-1-bits](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0658-find-k-closest-elements) |
 ## Merge Sort
 |  |
@@ -201,6 +206,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [3046-split-the-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/3046-split-the-array) |
 ## Bracket Sequences
 |  |
@@ -218,4 +224,9 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
