@@ -18,6 +18,7 @@
 | [0238-product-of-array-except-self](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0622-design-circular-queue](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0622-design-circular-queue) |
+| [0658-find-k-closest-elements](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0658-find-k-closest-elements) |
 | [3046-split-the-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/3046-split-the-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
@@ -60,6 +61,7 @@
 | [0042-trapping-rain-water](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0151-reverse-words-in-a-string) |
+| [0658-find-k-closest-elements](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0658-find-k-closest-elements) |
 ## String
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0268-missing-number) |
+| [0658-find-k-closest-elements](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0658-find-k-closest-elements) |
 ## Stack
 |  |
 | ------- |
@@ -129,6 +132,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0658-find-k-closest-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -153,6 +157,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0076-minimum-window-substring) |
+| [0658-find-k-closest-elements](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0658-find-k-closest-elements) |
 ## Tree
 |  |
 | ------- |
@@ -188,6 +193,7 @@
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0268-missing-number) |
+| [0658-find-k-closest-elements](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0658-find-k-closest-elements) |
 ## Prefix Sum
 |  |
 | ------- |
