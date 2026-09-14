@@ -20,6 +20,7 @@
 | [0347-top-k-frequent-elements](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0622-design-circular-queue](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0658-find-k-closest-elements) |
+| [1834-single-threaded-cpu](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/1834-single-threaded-cpu) |
 | [3046-split-the-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/3046-split-the-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
@@ -108,6 +109,7 @@
 | [0268-missing-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0658-find-k-closest-elements) |
+| [1834-single-threaded-cpu](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/1834-single-threaded-cpu) |
 ## Stack
 |  |
 | ------- |
@@ -138,6 +140,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0658-find-k-closest-elements) |
+| [1834-single-threaded-cpu](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/1834-single-threaded-cpu) |
 ## Merge Sort
 |  |
 | ------- |
