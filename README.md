@@ -47,11 +47,13 @@
 | [0009-palindrome-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | [0032-longest-valid-parentheses](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0085-maximal-rectangle) |
+| [0509-fibonacci-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -232,4 +235,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0347-top-k-frequent-elements) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
