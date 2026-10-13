@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0051-n-queens) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -253,4 +255,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0912-sort-an-array) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
