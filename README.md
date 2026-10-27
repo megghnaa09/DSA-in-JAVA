@@ -19,6 +19,7 @@
 | [0238-product-of-array-except-self](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0347-top-k-frequent-elements) |
+| [0518-coin-change-ii](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0518-coin-change-ii) |
 | [0622-design-circular-queue](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0912-sort-an-array) |
@@ -94,6 +95,7 @@
 | [0042-trapping-rain-water](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0085-maximal-rectangle) |
 | [0509-fibonacci-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0518-coin-change-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -259,4 +261,12 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0051-n-queens) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
