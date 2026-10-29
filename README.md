@@ -86,6 +86,7 @@
 | [0179-largest-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [0649-dota2-senate](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0649-dota2-senate) |
+| [1143-longest-common-subsequence](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [0085-maximal-rectangle](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0085-maximal-rectangle) |
 | [0509-fibonacci-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0518-coin-change-ii) |
+| [1143-longest-common-subsequence](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -269,4 +271,8 @@
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
