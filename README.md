@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0268-missing-number) |
@@ -73,6 +74,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0020-valid-parentheses) |
@@ -178,6 +180,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0076-minimum-window-substring) |
 | [0658-find-k-closest-elements](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0658-find-k-closest-elements) |
 ## Tree
