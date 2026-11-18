@@ -188,22 +188,26 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0112-path-sum) |
 | [0700-search-in-a-binary-search-tree](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0112-path-sum) |
 | [0700-search-in-a-binary-search-tree](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/megghnaa09/DSA-in-JAVA/tree/master/0112-path-sum) |
 ## Matrix
 |  |
 | ------- |
